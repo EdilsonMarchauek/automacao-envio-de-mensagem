@@ -11,6 +11,4 @@ No final, a automação atualiza a situação do pagamento na planilha para "Men
 Em resumo, essa automação em Python com tkinter e selenium simplifica o processo de leitura de planilha e envio de mensagens personalizadas. Ela oferece uma interface gráfica amigável e automatiza tarefas repetitivas, tornando o processo mais eficiente e produtivo.
 
 <b>Principais Bibliotecas</p>
-Tkinter
-Pandas
-Selenium
+Tkinter, Pandas e Selenium
